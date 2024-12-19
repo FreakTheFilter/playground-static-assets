@@ -1,0 +1,24 @@
+[
+    {
+        "Filename": "Vector-16.svg",
+        "Center X": 133.89277633312977,
+        "Center Y": 164.08752296058026,
+        "Radius X": 114.31393990888434,
+        "Radius Y": 177.52872637157958,
+        "Rotation (radians)": 0.523600073275789,
+        "Bounding Box Width": 228.62787981776867,
+        "Bounding Box Height": 355.05745274315916,
+        "Surface Area": 81176.03263416607
+    },
+    {
+        "Filename": "Vector-27.svg",
+        "Center X": 153.39337440848928,
+        "Center Y": 98.65863862934914,
+        "Radius X": 162.26558761127393,
+        "Radius Y": 81.90225736125808,
+        "Rotation (radians)": 0.3903722648823868,
+        "Bounding Box Width": 324.53117522254786,
+        "Bounding Box Height": 163.80451472251616,
+        "Surface Area": 53159.67166965731
+    }
+]
